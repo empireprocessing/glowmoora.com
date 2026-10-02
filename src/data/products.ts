@@ -267,33 +267,33 @@ export const products: Product[] = [
     priceEUR: 34.9,
     image: "/product7.jpeg",
     gallery: ["/product7.jpeg", "/product7-a.jpeg", "/product7-b.jpeg"],
-    format: "Bottle — 90 softgels",
-    servings: "90 servings (1 softgel)",
+    format: "Oil dropper bottle — 50 mL (1.7 fl oz)",
+    servings: "~50 servings (1 mL dropper)",
     category: "Skin",
     shortDesc:
-      "Cold-pressed borage oil rich in GLA omega-6 to nourish the skin barrier and support a calm, supple complexion.",
+      "Cold-pressed liquid borage oil rich in GLA omega-6 to nourish the skin barrier and support a calm, supple complexion.",
     longDesc:
-      "Borage oil is one of nature's richest plant sources of gamma-linolenic acid (GLA), an omega-6 fatty acid that supports the skin's lipid barrier and helps maintain softness and suppleness. Our cold-pressed softgels deliver a concentrated daily dose to nourish skin from within and support overall skin comfort and resilience.",
+      "Borage oil is one of nature's richest plant sources of gamma-linolenic acid (GLA), an omega-6 fatty acid that supports the skin's lipid barrier and helps maintain softness and suppleness. Our cold-pressed liquid oil in a precise amber dropper bottle delivers a concentrated daily dose to nourish skin from within and support overall skin comfort and resilience. Take it straight or stirred into a smoothie.",
     benefits: [
       "Richest plant source of GLA omega-6",
       "Nourishes the skin's moisture barrier",
       "Supports a calm, supple complexion",
-      "Cold-pressed for quality",
-      "Convenient daily softgel",
+      "Cold-pressed, unrefined liquid oil",
+      "Precise amber dropper for easy dosing",
     ],
     directions:
-      "Take one (1) softgel daily with food and water, or as directed by your healthcare professional.",
+      "Take one full dropper (approx. 1 mL) daily, straight or mixed into a cold drink or smoothie, with food. Shake gently before use. Refrigerate after opening.",
     warnings:
       "Consult your physician before use if pregnant, nursing, taking medication (including blood thinners), or managing a medical condition. Keep out of reach of children.",
     activeIngredients: [
-      { name: "Borage Seed Oil (Borago officinalis)", amount: "1,000 mg", dv: "†" },
+      { name: "Cold-Pressed Borage Seed Oil (Borago officinalis)", amount: "1,000 mg", dv: "†" },
       { name: "of which Gamma-Linolenic Acid (GLA)", amount: "240 mg", dv: "†" },
     ],
-    otherIngredients: "Softgel capsule (bovine gelatin, glycerin, purified water), natural tocopherols (antioxidant).",
+    otherIngredients: "Natural mixed tocopherols (antioxidant). Non-GMO. No fillers.",
     faq: [
       { q: "What is GLA?", a: "Gamma-linolenic acid is an omega-6 fatty acid that supports the skin barrier; borage oil is one of its richest natural sources." },
       { q: "How is it different from evening primrose oil?", a: "Borage oil is more concentrated in GLA per serving; evening primrose is a milder, classic alternative." },
-      { q: "When should I take it?", a: "With a meal containing some fat for best absorption." },
+      { q: "How do I take a liquid oil?", a: "Draw one full dropper (about 1 mL) and take it straight or stirred into a cold drink or smoothie, ideally with a meal. Refrigerate after opening." },
     ],
   },
   {
@@ -305,32 +305,32 @@ export const products: Product[] = [
     priceEUR: 4.9,
     image: "/product8.jpeg",
     gallery: ["/product8.jpeg", "/product8-a.jpeg", "/product8-b.jpeg"],
-    format: "Trial bottle — 30 softgels",
-    servings: "30 servings (1 softgel)",
+    format: "Trial oil dropper bottle — 15 mL (0.5 fl oz)",
+    servings: "~15 servings (1 mL dropper)",
     category: "Skin",
     shortDesc:
-      "Cold-pressed evening primrose oil with GLA to support skin balance, softness and monthly comfort — a perfect trial size.",
+      "Cold-pressed liquid evening primrose oil with GLA to support skin balance, softness and monthly comfort — a perfect trial size.",
     longDesc:
-      "A beloved classic in beauty-from-within care, evening primrose oil provides gamma-linolenic acid (GLA) to support the skin's natural moisture balance and softness, and is traditionally used for monthly comfort. This 30-softgel trial size is the ideal way to begin your Glowmoora ritual.",
+      "A beloved classic in beauty-from-within care, evening primrose oil provides gamma-linolenic acid (GLA) to support the skin's natural moisture balance and softness, and is traditionally used for monthly comfort. This slim 15 mL trial dropper bottle of pure liquid oil is the ideal way to begin your Glowmoora ritual.",
     benefits: [
       "Natural source of GLA omega-6",
       "Supports skin softness and balance",
       "Traditionally used for monthly comfort",
-      "Cold-pressed softgels",
-      "Perfect trial size to start",
+      "Cold-pressed, unrefined liquid oil",
+      "Slim trial dropper to start",
     ],
     directions:
-      "Take one (1) softgel daily with food and water, or as directed by your healthcare professional.",
+      "Take one full dropper (approx. 1 mL) daily, straight or mixed into a cold drink, with food. Shake gently before use. Refrigerate after opening.",
     warnings:
       "Consult your physician before use if pregnant, nursing, taking medication (including blood thinners), or managing a medical condition. Keep out of reach of children.",
     activeIngredients: [
-      { name: "Evening Primrose Oil (Oenothera biennis)", amount: "500 mg", dv: "†" },
+      { name: "Cold-Pressed Evening Primrose Oil (Oenothera biennis)", amount: "500 mg", dv: "†" },
       { name: "of which Gamma-Linolenic Acid (GLA)", amount: "50 mg", dv: "†" },
     ],
-    otherIngredients: "Softgel capsule (bovine gelatin, glycerin, purified water), natural tocopherols (antioxidant).",
+    otherIngredients: "Natural mixed tocopherols (antioxidant). Non-GMO. No fillers.",
     faq: [
-      { q: "Is this a full-size bottle?", a: "This is a 30-softgel trial size — a low-commitment way to try evening primrose oil before the full routine." },
-      { q: "When is the best time to take it?", a: "With a meal, once daily." },
+      { q: "Is this a full-size bottle?", a: "This is a 15 mL trial dropper — a low-commitment way to try evening primrose oil before the full routine." },
+      { q: "How do I take a liquid oil?", a: "Draw one full dropper (about 1 mL) and take it straight or stirred into a cold drink, ideally with a meal. Refrigerate after opening." },
       { q: "Can I take it with borage oil?", a: "Both provide GLA; most people choose one GLA oil at a time." },
     ],
   },

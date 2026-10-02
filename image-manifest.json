@@ -1,12 +1,12 @@
 [
   {
     "file": "product1.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a premium large matte powder tub (jar) for marine collagen, in soft cream and blush-rose tones with a brushed champagne-gold lid. The clean refined label clearly reads the brand 'GLOWMOORA' in elegant serif capitals and the product name 'Marine Collagen' beneath it. Centered on a seamless warm cream background, soft diffused studio lighting, subtle shadow, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a premium wide matte powder TUB (canister) for marine collagen, soft cream and blush-rose tones with a brushed champagne-gold screw lid. In front, the lid is open with a champagne-gold scoop resting beside it and a small mound of fine ivory collagen powder spilled softly on the surface. The clean refined label clearly reads the brand 'GLOWMOORA' in elegant serif capitals on the first line and the product name 'Marine Collagen' on the second line. Centered on a seamless warm cream background, soft diffused studio lighting, subtle shadow, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product1-a.jpeg",
     "ref": "product1.jpeg",
-    "prompt": "Reproduce EXACTLY this same marine collagen powder tub and its 'GLOWMOORA / Marine Collagen' label, keeping identical packaging, color and typography, then present it as an extreme close-up macro detail highlighting the label texture and the champagne-gold lid. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same marine collagen powder tub and its 'GLOWMOORA / Marine Collagen' label, keeping identical packaging, color and typography, then present a top-down macro of the open tub filled with fine ivory collagen powder and the champagne-gold scoop dipped in. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product1-b.jpeg",
@@ -15,104 +15,104 @@
   },
   {
     "file": "product2.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a premium matte powder tub (jar) for bovine collagen, soft cream and blush-rose tones with a champagne-gold lid, slightly smaller than a large tub. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Bovine Collagen' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a premium matte STAND-UP POUCH (flat-bottom resealable bag with a gold zip seal at the top) for bovine collagen, soft cream and blush-rose tones with champagne-gold foil accents. The clean refined label printed on the pouch clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Bovine Collagen' on the second line. The pouch stands upright. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product2-a.jpeg",
     "ref": "product2.jpeg",
-    "prompt": "Reproduce EXACTLY this same bovine collagen powder tub and its 'GLOWMOORA / Bovine Collagen' label, identical packaging and typography, then present as an extreme close-up macro of the label and lid. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same bovine collagen stand-up pouch and its 'GLOWMOORA / Bovine Collagen' label, identical packaging and typography, then present it open at the top with a champagne-gold scoop of fine ivory collagen powder resting in front and a little loose powder on the surface. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product2-b.jpeg",
     "ref": "product2.jpeg",
-    "prompt": "Reproduce EXACTLY this same bovine collagen powder tub and its 'GLOWMOORA / Bovine Collagen' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, linen texture and dried botanicals, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same bovine collagen stand-up pouch and its 'GLOWMOORA / Bovine Collagen' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, linen texture and dried botanicals, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product3.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a rounded glass jar of berry-colored hair gummies with a champagne-gold lid. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Hair Gummies' beneath it. A few pink-red gummies resting beside the jar. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a wide-mouth WHITE frosted gummy JAR with a champagne-gold screw lid, filled with berry-pink hair gummies clearly visible through the glass, and three or four pink-red gummies resting on the surface beside the jar. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Hair Gummies' on the second line. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product3-a.jpeg",
     "ref": "product3.jpeg",
-    "prompt": "Reproduce EXACTLY this same hair gummies jar and its 'GLOWMOORA / Hair Gummies' label, identical packaging and gummies, then present as an extreme close-up macro of the gummies and the label. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same white gummy jar and its 'GLOWMOORA / Hair Gummies' label, identical packaging and berry-pink gummies, then present an extreme close-up macro of a small pile of the glossy pink-red gummies spilling from the open jar. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product3-b.jpeg",
     "ref": "product3.jpeg",
-    "prompt": "Reproduce EXACTLY this same hair gummies jar and its 'GLOWMOORA / Hair Gummies' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, a hairbrush and pale flowers, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same white gummy jar and its 'GLOWMOORA / Hair Gummies' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, a hairbrush and pale flowers, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product4.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a small matte capsule bottle for zinc, soft cream and blush tones with a champagne-gold cap. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Zinc Capsules' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a small rounded matte HDPE pill BOTTLE for zinc, soft blush-pink body with a champagne-gold screw cap. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Zinc Capsules' on the second line. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product4-a.jpeg",
     "ref": "product4.jpeg",
-    "prompt": "Reproduce EXACTLY this same zinc capsule bottle and its 'GLOWMOORA / Zinc Capsules' label, identical packaging and typography, then present as an extreme close-up macro of the label and cap. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same zinc pill bottle and its 'GLOWMOORA / Zinc Capsules' label, identical packaging and typography, then present it with the cap off and several ivory capsules spilled in front of the bottle. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product4-b.jpeg",
     "ref": "product4.jpeg",
-    "prompt": "Reproduce EXACTLY this same zinc capsule bottle and its 'GLOWMOORA / Zinc Capsules' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and minimal props, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same zinc pill bottle and its 'GLOWMOORA / Zinc Capsules' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and minimal props, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product5.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a matte capsule bottle for hyaluronic acid, soft cream and blush tones with a champagne-gold cap. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Hyaluronic Acid' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a single tall slim cylindrical matte pill BOTTLE for hyaluronic acid, soft pearl-cream body with a dusty-rose shoulder band and a champagne-gold cap. Only ONE bottle in the frame. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Hyaluronic Acid' on the second line. A couple of clear capsules rest beside it with a single dewy water droplet. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product5-a.jpeg",
     "ref": "product5.jpeg",
-    "prompt": "Reproduce EXACTLY this same hyaluronic acid capsule bottle and its 'GLOWMOORA / Hyaluronic Acid' label, identical packaging and typography, then present as an extreme close-up macro of the label and cap, with a single dewy water droplet detail. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same tall slim hyaluronic acid pill bottle and its 'GLOWMOORA / Hyaluronic Acid' label, identical packaging and typography, then present a macro with the cap off and several clear capsules spilled in front, with a dewy water droplet detail. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product5-b.jpeg",
     "ref": "product5.jpeg",
-    "prompt": "Reproduce EXACTLY this same hyaluronic acid capsule bottle and its 'GLOWMOORA / Hyaluronic Acid' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, water reflections and pale petals, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same tall slim hyaluronic acid pill bottle and its 'GLOWMOORA / Hyaluronic Acid' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light, water reflections and pale petals, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product6.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a matte tablet bottle for vitamin C, soft cream and blush tones with a warm citrus-gold accent and champagne-gold cap. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Vitamin C' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a medium wide-shouldered matte pill BOTTLE for vitamin C, warm champagne-apricot body with a soft citrus-gold cap, a distinctly different shape and color from the other bottles. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Vitamin C' on the second line. A few round cream tablets rest beside it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product6-a.jpeg",
     "ref": "product6.jpeg",
-    "prompt": "Reproduce EXACTLY this same vitamin C tablet bottle and its 'GLOWMOORA / Vitamin C' label, identical packaging and typography, then present as an extreme close-up macro of the label and cap. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same vitamin C pill bottle and its 'GLOWMOORA / Vitamin C' label, identical packaging and typography, then present a macro with the cap off and several round cream tablets spilled in front. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product6-b.jpeg",
     "ref": "product6.jpeg",
-    "prompt": "Reproduce EXACTLY this same vitamin C tablet bottle and its 'GLOWMOORA / Vitamin C' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and a slice of citrus as a subtle accent, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same vitamin C pill bottle and its 'GLOWMOORA / Vitamin C' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and a slice of citrus as a subtle accent, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product7.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a matte softgel bottle for borage oil, soft cream and blush tones with a champagne-gold cap, a few golden softgel capsules beside it. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Borage Oil' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a 50 mL AMBER glass OIL DROPPER BOTTLE of liquid borage oil, with a champagne-gold dropper cap and a visible glass pipette filled with golden oil, standing upright. This is a liquid oil in a dropper bottle, NOT a pill bottle. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals on the first line and product name 'Borage Oil' on the second line. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product7-a.jpeg",
     "ref": "product7.jpeg",
-    "prompt": "Reproduce EXACTLY this same borage oil softgel bottle and its 'GLOWMOORA / Borage Oil' label, identical packaging and golden softgels, then present as an extreme close-up macro of the softgels and label. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same amber glass borage oil dropper bottle and its 'GLOWMOORA / Borage Oil' label, identical packaging, then present a macro with the champagne-gold glass pipette lifted above the bottle, a single glossy golden oil droplet about to fall. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product7-b.jpeg",
     "ref": "product7.jpeg",
-    "prompt": "Reproduce EXACTLY this same borage oil softgel bottle and its 'GLOWMOORA / Borage Oil' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and botanical leaves, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same amber glass borage oil dropper bottle and its 'GLOWMOORA / Borage Oil' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and botanical leaves, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product8.jpeg",
-    "prompt": "Elegant beauty-supplement product packshot: a small trial-size matte softgel bottle for evening primrose oil, soft cream and blush tones with a champagne-gold cap. The clean refined label clearly reads brand 'GLOWMOORA' in elegant serif capitals and product name 'Evening Primrose' beneath it. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp legible label. No other text, no numbers, no watermarks, no logos."
+    "prompt": "Elegant beauty-supplement product packshot: a slim tall frosted rose-tinted glass OIL DROPPER BOTTLE of liquid evening primrose oil, with a champagne-gold dropper cap and a visible glass pipette of pale golden oil. This is a liquid oil in a dropper bottle, NOT a pill bottle. The clean refined label has exactly two lines of text, spelled precisely: the first line is the brand 'GLOWMOORA' in elegant serif capitals, and the second line is the product name 'Primrose Oil' in elegant serif. Spell each word correctly and clearly. Seamless warm cream background, soft diffused studio lighting, luxury beauty editorial photography, high resolution. Crisp perfectly legible label. No other text, no numbers, no watermarks, no logos."
   },
   {
     "file": "product8-a.jpeg",
     "ref": "product8.jpeg",
-    "prompt": "Reproduce EXACTLY this same evening primrose oil trial softgel bottle and its 'GLOWMOORA / Evening Primrose' label, identical packaging and typography, then present as an extreme close-up macro of the label and cap. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same slim frosted rose-tinted evening primrose oil dropper bottle and its 'GLOWMOORA / Evening Primrose' label, identical packaging, then present a macro with the champagne-gold glass pipette lifted above, a single pale golden oil droplet forming. Warm cream background, soft diffused light, luxury beauty editorial. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "product8-b.jpeg",
     "ref": "product8.jpeg",
-    "prompt": "Reproduce EXACTLY this same evening primrose oil trial softgel bottle and its 'GLOWMOORA / Evening Primrose' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and a delicate yellow primrose flower accent, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
+    "prompt": "Reproduce EXACTLY this same slim frosted rose-tinted evening primrose oil dropper bottle and its 'GLOWMOORA / Evening Primrose' label, identical packaging, then place it in an elegant beauty-vanity lifestyle scene with soft light and a delicate yellow primrose flower accent, generous negative space. Warm blush and champagne palette, luxury editorial photography. No extra text, numbers, watermarks or logos."
   },
   {
     "file": "Herophoto.jpeg",
-    "prompt": "Elegant wide landscape beauty lifestyle scene for a premium skincare-supplement brand: a curated arrangement of cream and blush matte supplement jars and bottles with champagne-gold caps on a soft cream marble vanity, surrounded by pale pink peonies, silk fabric and soft natural morning light. Warm blush and champagne editorial palette, airy and luxurious, shallow depth of field. Large area of clean empty negative space in the lower center for a button. No text, no letters, no numbers, no logos, no watermarks."
+    "prompt": "Elegant wide landscape beauty lifestyle scene for a premium skincare-supplement brand: a curated arrangement of several distinct cream and blush supplement containers together — a wide powder tub, a stand-up pouch, a white frosted gummy jar, a couple of matte pill bottles and an amber glass dropper oil bottle, all with champagne-gold accents, on a soft cream marble vanity surrounded by pale pink peonies, silk fabric and soft natural morning light. Warm blush and champagne editorial palette, airy and luxurious, shallow depth of field. Large area of clean empty negative space in the lower center for a button. No text, no letters, no numbers, no logos, no watermarks."
   }
 ]
