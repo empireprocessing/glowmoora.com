@@ -30,7 +30,12 @@ export default function Home() {
             alt="Glowmoora beauty supplements arranged on an elegant vanity"
             className="absolute inset-0 w-full h-full object-cover"
           />
-          <div className="absolute inset-0 flex items-end justify-center pb-14 sm:pb-20">
+          {/* soft bottom scrim so the headline reads over the bright image */}
+          <div className="pointer-events-none absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-black/45 via-black/20 to-transparent" />
+          <div className="absolute inset-0 flex flex-col items-center justify-end text-center px-6 pb-14 sm:pb-20">
+            <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl text-white leading-[1.05] max-w-2xl mb-7 drop-shadow-[0_2px_16px_rgba(0,0,0,0.5)]">
+              Beauty That Starts Within
+            </h1>
             <button
               onClick={() => navigate("/shop")}
               className="bg-blush-500 text-white text-sm uppercase tracking-[0.25em] px-10 py-4 rounded-full shadow-lg hover:bg-blush-600 transition-colors"
@@ -46,9 +51,9 @@ export default function Home() {
       {/* INTRO */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
         <span className="text-[11px] uppercase tracking-[0.3em] text-champagne-700">Beauty From Within</span>
-        <h1 className="font-serif text-4xl sm:text-5xl text-[#5C4D47] mt-4 leading-tight">
+        <h2 className="font-serif text-4xl sm:text-5xl text-[#5C4D47] mt-4 leading-tight">
           Radiance begins beneath the surface
-        </h1>
+        </h2>
         <p className="text-[#8a776d] mt-6 leading-relaxed text-lg">
           Glowmoora creates premium nutritional supplements designed to nourish your skin, hair and nails from the
           inside out. Clean formulas, precise dosages and an elegant daily ritual — made in the USA.
